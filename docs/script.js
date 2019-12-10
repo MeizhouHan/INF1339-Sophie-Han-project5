@@ -177,3 +177,6 @@ async function showConfusion(model, data) {
 
   labels.dispose();
 }
+
+
+document.addEventListener('DOMContentLoaded', run);
